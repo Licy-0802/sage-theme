@@ -5,9 +5,8 @@
       <stop offset="100%" stop-color="#5a7d6b"/>
     </linearGradient>
   </defs>
-  <rect width="256" height="256" fill="url(#bg)"/>
-  <g transform="translate(128,128)" fill="#f0f4e8">
-    <path d="M-30,-50 C-50,-50 -55,-30 -55,-10 C-55,10 -45,30 -25,35 C-45,40 -55,55 -55,70 C-55,95 -35,105 -10,105 C10,105 30,100 40,85 C45,78 35,72 30,78 C20,90 5,95 -10,95 C-25,95 -35,85 -35,70 C-35,55 -25,42 -5,42 L10,42 L10,38 L-5,38 C-30,38 -35,30 -35,10 C-35,-5 -30,-20 -15,-20 L-10,-20 L-10,-42 L-5,-42 L-5,-50 L-30,-50 Z"/>
-    <path d="M-10,-20 L10,-20 C25,-20 35,-10 35,10 C35,30 25,38 10,38 L-10,38 L-10,-20 Z"/>
-  </g>
+  <rect width="256" height="256" rx="48" fill="url(#bg)"/>
+  <circle cx="128" cy="128" r="48" fill="none" stroke="#f0f4e8" stroke-width="8" opacity="0.7"/>
+  <line x1="128" y1="100" x2="128" y2="156" stroke="#f0f4e8" stroke-width="6" stroke-linecap="round" opacity="0.6"/>
+  <line x1="108" y1="144" x2="148" y2="144" stroke="#f0f4e8" stroke-width="6" stroke-linecap="round" opacity="0.6"/>
 </svg>
