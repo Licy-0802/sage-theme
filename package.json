@@ -1,6 +1,6 @@
 {
-  "name": "sage-theme-licy",
-  "displayName": "Sage · 鼠尾草",
+  "name": "sage-theme-by-licy",
+  "displayName": "Sage · 鼠尾草 🌿",
   "description": "鼠尾草绿护眼主题 — AI 时代，少写代码，多思考。A calming sage-green theme for the AI era: less typing, more thinking.",
   "version": "1.0.0",
   "publisher": "licy",
@@ -11,7 +11,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Sage · 鼠尾草",
+        "label": "Sage · 鼠尾草 🌿",
         "uiTheme": "vs",
         "path": "./themes/sage-color-theme.json"
       }
