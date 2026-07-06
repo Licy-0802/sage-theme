@@ -1,0 +1,113 @@
+{
+  "name": "Sage 鼠尾草",
+  "dark": false,
+  "author": "Licy",
+  "editorScheme": "/themes/Sage 鼠尾草.xml",
+  "colors": {
+    "foreground": "#4a5d42",
+    "background": "#f0f4e8",
+    "selectionForeground": "#4a5d42",
+    "selectionBackground": "#d0dac5",
+    "selectionInactiveBackground": "#e8ede0",
+    "border": "#d0dac5",
+    "focusColor": "#7c9a6b",
+    "separatorColor": "#dce5d3"
+  },
+  "ui": {
+    "*": {
+      "background": "#f0f4e8",
+      "foreground": "#4a5d42",
+      "selectionBackground": "#d0dac5",
+      "selectionForeground": "#4a5d42",
+      "separatorColor": "#dce5d3",
+      "borderColor": "#d0dac5",
+      "focusColor": "#7c9a6b"
+    },
+    "Editor": {
+      "background": "#f0f4e8",
+      "foreground": "#4a5d42",
+      "caretColor": "#4a5d42"
+    },
+    "EditorTabs": {
+      "background": "#e5ecde",
+      "underlineColor": "#7c9a6b",
+      "inactiveUnderlineColor": "#d0dac5"
+    },
+    "ToolWindow": {
+      "background": "#e8ede0",
+      "foreground": "#4a5d42"
+    },
+    "Panel": {
+      "background": "#e5ecde",
+      "foreground": "#4a5d42"
+    },
+    "Button": {
+      "background": "#7c9a6b",
+      "foreground": "#ffffff",
+      "focusColor": "#6b8e55"
+    },
+    "Menu": {
+      "background": "#f6f8f2",
+      "foreground": "#4a5d42",
+      "selectionBackground": "#dce5d3"
+    },
+    "MenuBar": {
+      "background": "#e5ecde",
+      "foreground": "#4a5d42"
+    },
+    "StatusBar": {
+      "background": "#e5ecde",
+      "foreground": "#4a5d42"
+    },
+    "SidePanel": {
+      "background": "#e8ede0",
+      "foreground": "#4a5d42"
+    },
+    "Tree": {
+      "background": "#e8ede0",
+      "foreground": "#4a5d42",
+      "selectionBackground": "#d0dac5"
+    },
+    "Table": {
+      "background": "#f0f4e8",
+      "foreground": "#4a5d42",
+      "gridColor": "#dce5d3"
+    },
+    "ScrollBar": {
+      "background": "#f0f4e8",
+      "thumbColor": "#c0ceb3"
+    },
+    "TextField": {
+      "background": "#f6f8f2",
+      "foreground": "#4a5d42",
+      "borderColor": "#d0dac5"
+    },
+    "ComboBox": {
+      "background": "#f6f8f2",
+      "foreground": "#4a5d42",
+      "selectionBackground": "#dce5d3"
+    },
+    "Popup": {
+      "background": "#f6f8f2",
+      "foreground": "#4a5d42",
+      "borderColor": "#d0dac5"
+    },
+    "TabbedPane": {
+      "background": "#e5ecde",
+      "foreground": "#4a5d42",
+      "underlineColor": "#7c9a6b"
+    },
+    "TitlePane": {
+      "background": "#e5ecde",
+      "foreground": "#4a5d42"
+    },
+    "ProgressBar": {
+      "trackColor": "#e5ecde",
+      "progressColor": "#7c9a6b"
+    },
+    "Notification": {
+      "background": "#f6f8f2",
+      "foreground": "#4a5d42"
+    }
+  }
+}
