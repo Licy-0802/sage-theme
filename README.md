@@ -36,7 +36,7 @@ AI is changing how we code. Less typing, more reading, reviewing, and thinking. 
 
 ## 📸 预览
 
-![Sage Theme](screenshot.png)
+![Sage Theme](https://raw.githubusercontent.com/Licy-0802/sage-theme/main/screenshot.png)
 
 *上图：Sage 主题在 Java Spring Boot 项目中的效果。Shows Sage theme with Java code.*
 
