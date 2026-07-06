@@ -13,6 +13,7 @@
     <option name="FONT_SIZE" value="13"/>
   </option>
   <colors>
+    <option name="BACKGROUND" value="f0f4e8"/>
     <option name="CARET_COLOR" value="4a5d42"/>
     <option name="CONSOLE_BACKGROUND_KEY" value="f0f4e8"/>
     <option name="GUTTER_BACKGROUND" value="e8ede0"/>
